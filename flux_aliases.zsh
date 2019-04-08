@@ -1,0 +1,7 @@
+alias nz="COUNTRY=nz"
+alias au="COUNTRY=au"
+alias uk="COUNTRY=uk"
+alias psnz="nz RETAILER=psnz RETAIL_BRAND=powershop"
+alias merx="nz RETAILER=merx RETAIL_BRAND=meridian"
+alias psau="au RETAILER=psau RETAIL_BRAND=powershop"
+alias psuk="uk RETAILER=psuk RETAIL_BRAND=powershop"
